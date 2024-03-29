@@ -1,5 +1,7 @@
 # GAML
 GAML: Geometry-Aware Mutual Learning for Polyp Segmentation
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 The code and dataset will be available soon here.
 
@@ -13,3 +15,6 @@ We have used the following datasets:
 - [BKAI](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)
 - [Kvasir-Sessile](https://datasets.simula.no/downloads/kvasir-sessile.zip)
 
+###  🔥NEWS🔥 :
+- [2024/02/5]:fire: Release the inference code!"Coming soon."
+- [2024/02/4] Create a repository.
