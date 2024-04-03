@@ -19,7 +19,7 @@ We have used the following datasets:
 - [2024/02/5]:fire: Release the inference code!"Coming soon."
 - [2024/02/4] Create a repository.
 ## Citation
-- If you find this work is helpful, please cite our previous work
+- If you find this work is helpful, please cite our work
 ```
 @article{wang2022eanet,
   title={EANet: Iterative edge attention network for medical image segmentation},
